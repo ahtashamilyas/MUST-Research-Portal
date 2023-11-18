@@ -1,4 +1,6 @@
 # MUST-Research-Portal
+![Alt Text](images/Home-page.png)
+
 ## Abstract
 
 Welcome to the MUST Research Portal, a pioneering Research Paper Repository System meticulously crafted to revolutionize the management of research papers at MUST University. This platform is engineered to enhance the efficiency of storing, retrieving, and collaborating on research papers, fostering heightened research productivity and academic excellence. The core mission of this project is to offer a comprehensive solution for storing, organizing, and managing the intricate details of research papers.
